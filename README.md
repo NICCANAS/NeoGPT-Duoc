@@ -12,3 +12,6 @@ El objetivo principal de este proyecto es aprovechar el poder del modelo GPT-NEO
 ## Conjunto de Datos
 
 Para llevar a cabo este proyecto, se utilizara datos del repositorio [hendrycks/math](https://github.com/hendrycks/math/). Este repositorio contiene una variedad de datos relacionados con matemáticas que pueden ser útiles para nuestro modelo. Asegúrate de clonar o descargar el dataset y procesar los datos antes de ejecutar el código del proyecto.
+
+## Recomendaciones
+Se recomienda abrir el .IPYNB en Google Collaborate para obtener un entorno de ejecucion con GPU y alta capacidad de ram

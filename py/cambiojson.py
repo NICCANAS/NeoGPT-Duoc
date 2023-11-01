@@ -12,5 +12,5 @@ for archivo in os.listdir(carpeta):
             data = json.load(f)
         combined_data.append(data)
 
-with open('resultado2.json', 'w') as f:
+with open('train.json', 'w') as f:
     json.dump(combined_data, f, indent=4)
